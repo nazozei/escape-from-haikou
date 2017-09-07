@@ -10,4 +10,6 @@
 
 ### [???](hint/last/)
 
-## [かんそうをのべる](https://docs.google.com/forms/d/e/1FAIpQLSfrXx3nbE5dvZoPHPCSkBuH6POOsMOvG02jVN10izO2CN4aRA/viewform?usp=sf_link)
+## 終了後アンケート
+
+### [かんそうをのべる](impressions.md)
