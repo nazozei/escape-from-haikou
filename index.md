@@ -12,4 +12,4 @@
 
 ## 終了後アンケート
 
-### [かんそうをのべる](impressions.md)
+### [かんそうをのべる](https://goo.gl/forms/tMZHrNIDCBpFxWao2)
