@@ -4,6 +4,8 @@
 
 ## [ヒント](hint/)
 
-1. [1階](hint/floor1/)
-1. [2階](hint/floor2/)
-1. [???](hint/last/)
+### [さいしょのなぞ](hint/floor1/)
+
+### [つぎのなぞ](hint/floor2/)
+
+### [???](hint/last/)
