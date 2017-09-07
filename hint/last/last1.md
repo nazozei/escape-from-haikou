@@ -1,3 +1,3 @@
-# aのヒント1
+# ???のヒント1
 
-- 左から「何」と「何」と「何」「が」「何」に変わった？
+![にほんのしき](https://nazozei.github.io/escape-from-haikou/hint/last/last1.png)
