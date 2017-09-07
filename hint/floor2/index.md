@@ -12,6 +12,7 @@
 ## iii
 
 - [iiiのヒント1](iii1.md)
+- [iiiのヒント2](iii2.png)
 
 ## iv
 
