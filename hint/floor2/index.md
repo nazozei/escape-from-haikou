@@ -15,6 +15,7 @@
 
 - [iiiのヒント1](iii1.md)
 - [iiiのヒント2](iii2.md)
+- [iiiのヒント3](iii3.md)
 
 ## iv
 
