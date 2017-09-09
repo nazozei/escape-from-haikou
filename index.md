@@ -2,7 +2,7 @@
 
 ![](logo.png)
 
-## [ヒント](hint/)
+## ヒント
 
 ### [さいしょのなぞ](hint/floor1/)
 
@@ -10,6 +10,13 @@
 
 ### [???](hint/last/)
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 ## 終了後アンケート
 
 ### [かんそうをのべる](https://goo.gl/forms/tMZHrNIDCBpFxWao2)
